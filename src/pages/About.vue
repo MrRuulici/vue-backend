@@ -1,4 +1,5 @@
 <template>
   About
-  <template />
 </template>
+
+<script setup> </script>

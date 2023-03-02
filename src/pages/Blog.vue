@@ -1,3 +1,5 @@
 <template> 
 Blog
-<template/>
+</template>
+
+<script setup> </script>

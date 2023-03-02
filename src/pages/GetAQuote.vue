@@ -1,3 +1,5 @@
 <template> 
 Get a Quote
-<template/>
+</template>
+
+<script setup> </script>

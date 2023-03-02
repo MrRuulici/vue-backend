@@ -1,3 +1,5 @@
 <template> 
 Shop
-<template/>
+</template>
+
+<script setup> </script>

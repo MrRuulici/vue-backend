@@ -1,3 +1,5 @@
 <template> 
 Media
-<template/>
+</template>
+
+<script setup> </script>
